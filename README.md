@@ -9,6 +9,6 @@ I then took the results to power bi for visualizations.
 
 ![alt text](https://github.com/justinjfisher90/Employee-Separation/blob/main/employeeseparation.PNG)
 
-I also took a further look into if employees that did not participate in projects were expected to leave the company more. The results showed that there was a 5% increase in employees leaving if they had participated in a project in the last 30 days
+I also took a further look into if employees that did not participate in projects were expected to leave the company more. The results showed that there was a 5% increase in employees leaving if they had participated in a project in the last 30 days.
 
 ![alt text](https://github.com/justinjfisher90/Employee-Separation/blob/main/employeeparticipation.PNG)
